@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
 	<title></title>
 </head>
 <body>
@@ -13,8 +13,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00D1s00000012mS',
-				'Web_Chat_Bot',
-				'https://cinnamon--dev.sandbox.my.site.com/ESWWebChatBot1712317061505',
+				'Cinnamon',
+				'https://cinnamon--dev.sandbox.my.site.com/ESWCinnamon1712575132699',
 				{
 					scrt2URL: 'https://cinnamon--dev.sandbox.my.salesforce-scrt.com'
 				}
@@ -24,7 +24,8 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://cinnamon--dev.sandbox.my.site.com/ESWWebChatBot1712317061505/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://cinnamon--dev.sandbox.my.site.com/ESWCinnamon1712575132699/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
 
 </body>
 </html>
